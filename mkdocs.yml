@@ -1,5 +1,5 @@
 site_name: 个人笔记
-site_url: /notes
+site_url: notes/
 
 plugins:
   - literate-nav:
